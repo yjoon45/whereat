@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 30" width="31" height="30">
+	<title>paper-plane</title>
+	<defs>
+		<image  width="31" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAMAAADjLDWuAAAAAXNSR0IB2cksfwAAAVNQTFRFb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdb9bdmyeBLgAAAHF0Uk5TADu8nSyp/yiZqx2XgxCH+2AOf+/e/joBdu7yjNz9FmXg4zy9YtnNocdTz8CmR8GqZIBBv4VJWTOvaCE2MKP3Sw3q+hEinyfYiqW30aR6TlAMWq7walVYTQntE/H4A4TVKQRpuY8lykQuaxmJshscRo2HTUECAAABP0lEQVR4nH3RZ1vCMBAA4HOdOBAF0SIuHIiAe6GCFlEUBPfCvcXt///kdaUhtL0PyV3ep5c0AXCImto6B61vQERbbXSRYpONNregGq2W6m7zaIztFtrh9ZF4Ov00dlVptxRQPuwJ9tLY1y/ywKDaNzQ0rE6Cjoxq24ZhTJ0jFToe1U8VA6+WxDmdmNQVp2Baz2aYzs4ZivOwYKSLui4lmOIyrLB8VdVkytS1dZDTRrGRId3cMhVDWYAoq7aJdzjFsBsgZ5Z58l2OC1QXudql7L6X8rGDA+zz7Yra6Q8Oj46pOqE0yzOest+Xz+LnNF2UKjwpXP/lVQVfy4Lf3Ob9nN8JL3//AJB5jDFPCP4UeFYu9EV61TwotC/QWvpNycpShPJ3wZVnKH3oRfnz69vCf8A+4vyNWEQec04Mv3/Va/+qsCdesEiNjQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="paper-plane" href="#img1" x="0" y="0"/>
+</svg>
