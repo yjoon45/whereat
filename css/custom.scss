@@ -1628,7 +1628,7 @@ body {
 }
 
 .ourAdviser-main {
-  padding: 250px 0 0;
+  padding: 50px 0 0;
   position: relative;
   background: #421786;
 
@@ -1849,7 +1849,7 @@ body {
 .roadMap-main {
   padding: 50px 0;
   position: relative;
-  background-color: #5d1cc8;
+  background: linear-gradient(to bottom, #421786 0%, #5d1cc8 50%);
 
   @media (min-width: 1200px) {
     padding: 100px 0 150px;
@@ -2039,7 +2039,8 @@ body {
 .suscribeMain {
   padding: 100px 0;
   position: relative;
-  background-color: #5d1cc8;
+  background: linear-gradient(to bottom, #421786 0%, #5d1cc8 50%);
+  // background-color: #5d1cc8;
 
   @media (max-width: 991px) {
     padding: 40px 0;
